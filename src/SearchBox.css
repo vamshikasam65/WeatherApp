@@ -1,0 +1,18 @@
+.SearchBox {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.SearchBox .MuiTextField-root {
+    width: 100%;
+    max-width: 400px;
+}
+
+.SearchBox h3 {
+    font-weight: 500;
+    color: #333;
+}
+
+.search {
+    border-color: rgb(255, 255, 255);
+}
